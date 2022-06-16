@@ -1,0 +1,10 @@
+{
+	"database_config": {
+		"localhost": "localhost",
+		"username": "root",
+		"password": "1001",
+		"database": "wfjoa",
+		"period_of_time_sale_table":"period_of_time_sale",
+		"brf":""
+	}
+}
